@@ -1,1 +1,4 @@
-
+cp -r ~/Desktop/screenshots .
+git add screenshots/
+git commit -m "Add dashboard and UI screenshots"
+git push origin main
