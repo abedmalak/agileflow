@@ -32,3 +32,5 @@ AgileFlow is a highly visual project management application designed to streamli
 
 * **Refined Dark Mode**  
   A modern, high-contrast dark theme optimized to reduce eye strain and maintain a quiet luxury aesthetic.
+
+  Copyright 2026 - All Rights Reserved
